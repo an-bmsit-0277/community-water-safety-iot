@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Frontend & Env
+node_modules/
+dist/
+.env
+.env.local
